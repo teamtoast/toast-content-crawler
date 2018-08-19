@@ -20,7 +20,7 @@ def get_subjects():
     return subjects
 
     
-conn = pymysql.connect(host='localhost', user='root', password='Rkdxogml5768!',db='mydb', charset='utf8')
+conn = pymysql.connect(host='localhost', user='root', password='',db='mydb', charset='utf8')
 curs = conn.cursor(pymysql.cursors.DictCursor)
 
 sql = """INSERT INTO `STUDY_CONTENT` (`contentName`, `question`, `answer`) 
