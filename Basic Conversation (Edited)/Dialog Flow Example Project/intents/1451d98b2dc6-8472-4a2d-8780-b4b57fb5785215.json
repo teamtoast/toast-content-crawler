@@ -1,0 +1,4 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451d98b2dc6-8472-4a2d-8780-b4b57fb5785215", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Yeah, because it will
+                      grow bacteria. Because it's been warm, it will
+                      grow bacteria easily at room temperature. The rice
+                      is the part you need to be careful about. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

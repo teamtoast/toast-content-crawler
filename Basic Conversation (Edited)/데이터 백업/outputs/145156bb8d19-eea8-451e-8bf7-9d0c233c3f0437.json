@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145156bb8d19-eea8-451e-8bf7-9d0c233c3f0437", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " No. I used to and I used
+                      to cut the mold off cheese, but having learned
+                      more about visible mold is only a small amount of
+                      it and parts of mold you can't see are branching
+                      into the food. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

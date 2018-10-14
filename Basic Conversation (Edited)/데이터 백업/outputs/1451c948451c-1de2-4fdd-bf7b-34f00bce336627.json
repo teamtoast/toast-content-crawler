@@ -1,0 +1,4 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451c948451c-1de2-4fdd-bf7b-34f00bce336627", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " That depends on how
+                      high the rim is. If it's five feet or six feet,
+                      definitely, but on a standard regulation net,
+                      which is probably nine or 9.5 feet, I cannot. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

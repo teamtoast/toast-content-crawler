@@ -1,0 +1,2 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "105143c5f4b3-a5a5-4654-a07f-6b9aa2f629112", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " What's it like being a wedding singer?
+						    " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451dc1ec792-9e8e-4b6e-a71c-9bf7125f1a6b23", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " When we moved into our
+                      house we did go to a furniture store and bought
+                      all new furniture. It's easy. It's done.
+                      Everything looks new. It's kind of nice, but I
+                      almost " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

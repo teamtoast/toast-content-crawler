@@ -1,0 +1,2 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451b2958361-dec8-4e33-b43a-58856b808a5021", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " I'm definitely a used
+                      furniture person now. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

@@ -1,0 +1,2 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451887820db-4e14-41d0-b718-9576b666f31a31", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " We just wait until that
+                      " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

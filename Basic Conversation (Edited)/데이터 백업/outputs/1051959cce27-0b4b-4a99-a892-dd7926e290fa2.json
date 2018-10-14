@@ -1,0 +1,2 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1051959cce27-0b4b-4a99-a892-dd7926e290fa2", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " You're wife so then where did you meet?
+						    " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

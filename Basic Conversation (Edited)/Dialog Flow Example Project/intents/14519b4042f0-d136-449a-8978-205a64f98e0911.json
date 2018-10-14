@@ -1,0 +1,2 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14519b4042f0-d136-449a-8978-205a64f98e0911", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Exactly, yeah. That's
+                      gonna be a little bit stressful as well. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

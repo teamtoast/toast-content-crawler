@@ -1,0 +1,4 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14514b81e649-2fed-40ee-8758-4d2aa4b516b810", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " I'm sure. Yeah. I mean it's
+                      really difficult to use idioms in any language,
+                      but English has so many, I think. Another thing I
+                      wanted to ask you about " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

@@ -1,0 +1,3 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145185cac75e-cd88-4000-9e6b-d6f823b31c1b18", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Oh, that's a good idea.
+                      Okay, well, thanks a lot. That was some really
+                      good advice. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

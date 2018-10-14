@@ -1,0 +1,3 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14511194c5a7-c54e-4f90-b457-6d72dcd355148", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " When you learn the idioms,
+                      you can understand them. Did you ever use them
+                      yourself, when you, like, " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

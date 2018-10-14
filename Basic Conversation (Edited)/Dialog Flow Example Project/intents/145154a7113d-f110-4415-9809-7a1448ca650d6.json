@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145154a7113d-f110-4415-9809-7a1448ca650d6", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Wow. And I think also it's
+                      kind of like basically if you just eat unprocessed
+                      foods, if you eat natural foods, right, then you
+                      will probably stay healthy and you won't need to
+                      see the doctor. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

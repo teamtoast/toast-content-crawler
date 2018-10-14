@@ -1,0 +1,7 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145127707946-baa6-4feb-9e8b-ef71b9ba63dd13", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Absolutely. If you just
+                      chop up any kind of vegetable, let's say it's
+                      cabbage and carrot, so you cut it up. You massage
+                      it with salt and some spices until their juice
+                      comes out. You press it down so all the vegetables
+                      are covered with its own juice. Three days later,
+                      you have perfect fermented sauerkraut. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

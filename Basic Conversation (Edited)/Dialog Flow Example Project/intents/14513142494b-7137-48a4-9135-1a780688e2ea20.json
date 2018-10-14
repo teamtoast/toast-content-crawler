@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14513142494b-7137-48a4-9135-1a780688e2ea20", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Yeah. Yeah, I wish that I
+                      was better at sports as well. I really like
+                      downhill skiing, for example, but I never skied a
+                      lot, like my dad, he skied professionally when he
+                      was young, and I'm kind of " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

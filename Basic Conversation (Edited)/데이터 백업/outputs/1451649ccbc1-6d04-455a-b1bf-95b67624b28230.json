@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451649ccbc1-6d04-455a-b1bf-95b67624b28230", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Right, yes. So that's the
+                      other one is yogurt. So yogurt, I'll see it in the
+                      fridge and I'm like, "How long can I keep this?"
+                      Like sometimes it'll be past the expiration date,
+                      but it smells fine, it looks fine. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

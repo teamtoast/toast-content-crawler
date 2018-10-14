@@ -1,0 +1,3 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145138afb780-290b-4d10-93d4-b3e80b35da1a23", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " And how'd you like the
+                      change? When you went back to Norway, did you find
+                      things a lot more easier for you to " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

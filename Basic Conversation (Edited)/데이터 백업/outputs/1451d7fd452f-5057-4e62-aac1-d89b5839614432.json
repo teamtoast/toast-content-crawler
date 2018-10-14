@@ -1,0 +1,4 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451d7fd452f-5057-4e62-aac1-d89b5839614432", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " What about the TV though?
+                      The TVs don't break down. They go on forever. How
+                      often do you think, oh I want a new TV, I want a
+                      new nicer TV? " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

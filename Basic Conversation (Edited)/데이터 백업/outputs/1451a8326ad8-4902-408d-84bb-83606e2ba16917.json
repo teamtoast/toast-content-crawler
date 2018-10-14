@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451a8326ad8-4902-408d-84bb-83606e2ba16917", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Well, it might be. Maybe
+                      you can visit a friend who is doing that, or if
+                      you have access to farmer's market or some natural
+                      organic stores, they may provide something that is
+                      not pasteurized and prepared the right way. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

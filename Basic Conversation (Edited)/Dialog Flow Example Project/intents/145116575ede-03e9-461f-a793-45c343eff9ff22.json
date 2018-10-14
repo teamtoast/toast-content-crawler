@@ -1,0 +1,17 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145116575ede-03e9-461f-a793-45c343eff9ff22", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Yeah and it's similar to
+                      what you were talking about. After high school, I
+                      went to Barcelona to study graphic design and I
+                      was supposed to be there for four years, but it
+                      was very scary and I was only 19 years old living
+                      in a foreign country. The university wasn't really
+                      good. They promised us an English class, but they
+                      didn't speak English so we were the only four
+                      people in the English class and they were only
+                      speaking Spanish to us. We couldn't understand
+                      anything, so it was a very stressful situation;
+                      being in a new country, not speaking the language,
+                      and the university not being very supportive. That
+                      was very stressful, but it was a very good
+                      experience and I learned a lot from it, but I
+                      ended up going back to Norway and going to
+                      university there instead. Yeah. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

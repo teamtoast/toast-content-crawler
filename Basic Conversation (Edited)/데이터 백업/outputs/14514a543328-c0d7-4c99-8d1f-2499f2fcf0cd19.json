@@ -1,0 +1,3 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14514a543328-c0d7-4c99-8d1f-2499f2fcf0cd19", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " That's a big one, but
+                      we've still got the same kitchen table. We had got
+                      to get some new chairs. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

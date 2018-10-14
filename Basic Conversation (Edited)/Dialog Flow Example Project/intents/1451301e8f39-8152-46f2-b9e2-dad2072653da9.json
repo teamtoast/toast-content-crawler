@@ -1,0 +1,7 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451301e8f39-8152-46f2-b9e2-dad2072653da9", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Yes, I did it gradually. I
+                      mean, when I was in high school, I started
+                      speaking ... I started studying English when I was
+                      in high school. First thing I did was visiting
+                      those websites that, like, designed for English
+                      speakers, English learners. At the same time, I
+                      start watching like American TV dramas and," } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

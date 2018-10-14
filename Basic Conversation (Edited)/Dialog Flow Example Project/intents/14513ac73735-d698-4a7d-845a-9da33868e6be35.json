@@ -1,0 +1,3 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14513ac73735-d698-4a7d-845a-9da33868e6be35", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Well, we had lightening
+                      hit the house, and we lost several electronic
+                      items. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

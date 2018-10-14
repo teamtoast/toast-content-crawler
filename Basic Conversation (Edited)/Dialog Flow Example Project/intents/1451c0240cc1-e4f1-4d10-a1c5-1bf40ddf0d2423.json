@@ -1,0 +1,9 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451c0240cc1-e4f1-4d10-a1c5-1bf40ddf0d2423", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Basketball is my main
+                      sport. I used to play a little bit of volleyball
+                      when I was in high school and so I played the
+                      position of setter and so that was very fun. It
+                      took a lot of accuracy. I think if I had to be a
+                      little bit more talented, it would be at jumping
+                      because if I was able to jump a lot more, I would
+                      be able to fake my sets and just hit the ball down
+                      on the " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

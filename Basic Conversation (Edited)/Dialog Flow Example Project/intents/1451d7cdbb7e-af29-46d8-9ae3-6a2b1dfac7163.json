@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451d7cdbb7e-af29-46d8-9ae3-6a2b1dfac7163", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " That is correct, and our
+                      ancestors used to have a variety that is not two,
+                      not five, not 10, but 100 times more than what we
+                      do now. Our ancestors would have 3,000 different
+                      food items that they would rotate. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

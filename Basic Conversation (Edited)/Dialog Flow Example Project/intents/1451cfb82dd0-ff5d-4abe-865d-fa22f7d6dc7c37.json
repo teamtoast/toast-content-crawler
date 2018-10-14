@@ -1,0 +1,8 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451cfb82dd0-ff5d-4abe-865d-fa22f7d6dc7c37", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " A lay up is when you
+                      drive towards the net, you're allowed to take two
+                      steps while holding the basketball and so that's
+                      usually how people when they're very close to the
+                      net, they do a lay up or they're also able to
+                      convert a lay up into a dunk so they're able to
+                      take two steps and dunk towards the basketball
+                      net. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

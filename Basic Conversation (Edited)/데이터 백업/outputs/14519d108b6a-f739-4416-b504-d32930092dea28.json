@@ -1,0 +1,4 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14519d108b6a-f739-4416-b504-d32930092dea28", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Right. I think the big
+                      one, I guess, you're right about time, is dairy.
+                      Milk is obvious, because milk you can smell. But
+                      cheese ... " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

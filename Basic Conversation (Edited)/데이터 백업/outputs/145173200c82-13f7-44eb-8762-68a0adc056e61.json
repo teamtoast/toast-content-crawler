@@ -1,0 +1,7 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145173200c82-13f7-44eb-8762-68a0adc056e61", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Firstly, I worked on
+                      listening, and there are so many websites that are
+                      designed for English learners, like ELLLO here
+                      you're listening to, and YouTube or any, you know,
+                      so many sites that you can check on. Yeah, like
+                      that. I'll probably start with the listening
+                      first." } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

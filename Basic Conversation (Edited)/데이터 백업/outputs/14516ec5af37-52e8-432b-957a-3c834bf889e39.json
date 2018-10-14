@@ -1,0 +1,9 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14516ec5af37-52e8-432b-957a-3c834bf889e39", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Or for example, my
+                      water bottle every single time I leave for class.
+                      I think memory is very important and it's very
+                      good to remember certain conversations with
+                      people. For example, sometimes I might have a
+                      conversation with someone and completely forget
+                      that I talked about that topic and then just be
+                      reminded of it when I talk to that person the next
+                      time. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

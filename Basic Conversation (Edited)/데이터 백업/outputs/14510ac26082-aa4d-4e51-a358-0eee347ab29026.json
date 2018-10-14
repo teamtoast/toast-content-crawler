@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14510ac26082-aa4d-4e51-a358-0eee347ab29026", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " My rule is always three
+                      days. So, I'll eat anything if it's within ...
+                      except for meat, maybe, but anything if it's
+                      within three days of the expiration date or the
+                      sell-by date on the store's ... " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

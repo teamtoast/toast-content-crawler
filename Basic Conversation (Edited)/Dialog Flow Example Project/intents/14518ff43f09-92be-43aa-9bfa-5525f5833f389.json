@@ -1,0 +1,6 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14518ff43f09-92be-43aa-9bfa-5525f5833f389", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Well, actually any kind of
+                      extreme has health consequences. We talk a little
+                      bit about toxicity and deficiency as roots of any
+                      health problems, so when you don't have enough of
+                      something, or too much of something, both cause
+                      problems. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

@@ -1,0 +1,4 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14514e8fa590-b1e2-421e-bfeb-c42a68b3afd02", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " So basically when we eat
+                      we shouldn't just eat one type of food, we wanna
+                      make sure we have a very varied food supply of
+                      vegetables, fruit, even meat, things like that? " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

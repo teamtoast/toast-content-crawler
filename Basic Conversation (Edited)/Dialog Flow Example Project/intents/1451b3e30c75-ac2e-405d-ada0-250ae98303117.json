@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451b3e30c75-ac2e-405d-ada0-250ae98303117", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Yes, because often I found
+                      it difficult to understand what the speaker say. I
+                      could hear, I could understand what the single
+                      words they say. But sometimes it was hard to sort
+                      of " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

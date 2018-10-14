@@ -1,0 +1,9 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145110635f58-599f-4b45-8baf-6096e66ac00e3", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " It's because when you want
+                      to communicate, of course, the English as a tool,
+                      communication tool, first, you have to understand
+                      what the speaker say, so first, I worked on
+                      listening. By listening to audio, or the sound,
+                      then you can learn vocab and also spelling, and
+                      you know the meaning, of course. Eventually, you
+                      can move on to the next English skill. That's why
+                      I start " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

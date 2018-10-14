@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145166844ad9-75d0-4294-8756-21cad469097a35", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Mm, no, I cannot. I
+                      can't shoot with my left hand. I can do a lay up
+                      with my left hand, but I can't shoot the ball
+                      naturally like a free throw or three point shot
+                      with my left hand. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

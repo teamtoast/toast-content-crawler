@@ -1,0 +1,9 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145135e085e6-bf91-4195-9f9f-f5d36ab5c76b5", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Well, actually, I am not
+                      suggesting that people fight with themselves, and
+                      they avoid or break anything, because that would
+                      constitute violence against yourself. I am a
+                      student of Marshall Rosenberg, who developed a
+                      nonviolent communication system. Instead of taking
+                      away the bad, you add something good. You find
+                      exciting, fun, new habits that will naturally
+                      substitute. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

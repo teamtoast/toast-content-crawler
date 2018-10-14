@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14516eaff5ac-af10-4cb2-8869-9f8fcd90cac213", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " With fish, as well as
+                      other meats, I think it's very easy to tell,
+                      because you can tell by the smell whether
+                      something's good or not. I actually think that
+                      rice is more dangerous. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

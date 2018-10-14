@@ -1,0 +1,10 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145149832da5-21dd-4747-b7b3-c460eb82f99d11", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Well, I'm not sure.
+                      Honestly, I've seen people really individualize
+                      their life, and some people go to bed late and
+                      wake up late, and they're still productive. And in
+                      different times of our lives we have different
+                      periods when it's better to go to bed early and
+                      wake up earlier, and other times it's okay to go
+                      to bed late and wake up late. But in general, yes,
+                      Chinese medicine talks a lot about their times for
+                      the different meridians that represent organs. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

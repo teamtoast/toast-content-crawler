@@ -1,0 +1,9 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145139f5a0f0-1144-406b-8ea6-e47e2a40f0c025", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Yes. Because, first, when
+                      you write, unlike speaking or talking to somebody,
+                      it gives you time to really think about what you
+                      want to do, what you want to write, and you can
+                      focus on grammar more. That helps to actually talk
+                      to somebody maybe a day, right, next day, or you
+                      have to write something else in the class, that
+                      would help you. So keeping the journal will help
+                      you definitely, I think." } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

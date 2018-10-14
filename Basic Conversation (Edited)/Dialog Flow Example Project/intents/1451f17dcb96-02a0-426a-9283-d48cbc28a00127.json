@@ -1,0 +1,7 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451f17dcb96-02a0-426a-9283-d48cbc28a00127", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Oh, I think that matters
+                      ... To me it makes an enormous difference what it
+                      is. For example, moyashi, which is bean sprouts,
+                      I'll eat them on the day or the day after, but not
+                      after that. They start getting bad really quickly.
+                      But, for example, a jar of pickles, that's going
+                      to last much longer than the three days after. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

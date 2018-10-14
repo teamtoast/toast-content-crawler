@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451ff00adcf-f850-4f52-91bd-11f8aaef167c52", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " What's interesting is when
+                      you see some foods that you think would last
+                      forever, but actually they won't, they just have
+                      an expiration date that's way in the future, like
+                      canned goods. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

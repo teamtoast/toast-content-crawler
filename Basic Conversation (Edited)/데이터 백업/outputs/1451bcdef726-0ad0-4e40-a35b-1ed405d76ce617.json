@@ -1,0 +1,6 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451bcdef726-0ad0-4e40-a35b-1ed405d76ce617", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Got it. Got it. Well,
+                      that's a big relief. I know that when a lot of
+                      university students graduate, they go job hunting,
+                      or even in their third or fourth year. It's good
+                      to know that you still have lots of time before
+                      you go job hunting. You're " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

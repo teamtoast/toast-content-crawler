@@ -1,0 +1,7 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145160bec84d-23aa-44a3-9f37-bf675760278d12", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Yeah. What about food? We
+                      live in Japan. We're both teachers in Japan. One
+                      thing I often wonder about is the sashimi and the
+                      sushi, the raw fish. How long can you keep it
+                      before you eat it? They say you're supposed to
+                      have it that night, but I sometimes eat it the
+                      next morning or even for lunch. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

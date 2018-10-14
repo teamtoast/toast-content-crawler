@@ -1,0 +1,6 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "14513aeaddae-3ef7-4890-b023-63d9c6598dc117", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " To learn sort of the
+                      template, how will things goes and how you make
+                      paragraph and stuff. Probably if you want to get
+                      better at writing, I would start reading first,
+                      reading lots of passage, different kinds of
+                      materials first." } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

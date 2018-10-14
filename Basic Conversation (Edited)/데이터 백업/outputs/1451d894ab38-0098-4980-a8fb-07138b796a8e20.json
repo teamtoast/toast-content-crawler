@@ -1,0 +1,11 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451d894ab38-0098-4980-a8fb-07138b796a8e20", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Yeah, I've never been a
+                      big furniture guy, but I just when I see something
+                      that's really cheap ... I would never buy new
+                      furniture. I'm always amazed like who buys new
+                      furniture? Because when you walk by a store and
+                      you see the furniture, it's so expensive. I'm
+                      gonna sound really cheap, but it's like I'm like,
+                      wow, why would you pay hundreds of dollars or
+                      thousands of dollars for that when you can just
+                      buy one used or whatever for ten bucks or twenty
+                      bucks? " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

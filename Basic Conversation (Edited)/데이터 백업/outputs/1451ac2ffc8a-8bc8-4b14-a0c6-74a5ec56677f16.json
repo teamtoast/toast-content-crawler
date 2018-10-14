@@ -1,0 +1,12 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451ac2ffc8a-8bc8-4b14-a0c6-74a5ec56677f16", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Well, I haven't really
+                      been ... I'm trying not to think about now 'cause
+                      I still have so many years left. The degree that
+                      I'm taking, social anthropology, isn't really a
+                      degree that you get work from. Especially, only
+                      with a bachelor's degree. I'm gonna have to take
+                      more years of other stuff. I'm thinking of taking
+                      English literature and then, eventually becoming a
+                      teacher, teaching in high school. But there's a
+                      long way to go, so I'll probably not be done until
+                      I'm like 28, 29 and I'm 23 right now. I'm not
+                      really worrying about jobs yet. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

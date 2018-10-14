@@ -1,0 +1,5 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "145127b6428c-930f-4603-b848-f9d57e7ac5ec16", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " Wow, that's good to know.
+                      I think though part of the problem though is even
+                      myself thinking like, "Oh, I'm not going to cut up
+                      a bunch of cabbage and carrots, and wait three
+                      days." It seems like it's too much work. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }

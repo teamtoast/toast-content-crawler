@@ -1,0 +1,10 @@
+{ "id": "10d3155d-4468-4118-8f5d-15009af446d0", "name": "1451102666bd-ae87-4c4b-910b-a5cc9499c6721", "auto": true, "contexts": [], "responses": [ { "resetContexts": false, "affectedContexts": [], "parameters": [], "messages": [ { "type": 0, "lang": "ko", "speech": " I totally agree with that,
+                      and I see it in clinical practice to be true. You
+                      don't really need to be Ph.D in healing or
+                      nutrition. If you throw into your diet variety,
+                      and it would change with the season, it would
+                      change with location, it would change with your
+                      mood and how your body feels, then that's it. A
+                      variety can really give your body everything, and
+                      your body has all the knowledge, all the wisdom,
+                      and knows what to do with that. " } ], "defaultResponsePlatforms": {}, "speech": [] } ], "priority": 500000, "webhookUsed": false, "webhookForSlotFilling": false, "fallbackIntent": false, "events": [] }
